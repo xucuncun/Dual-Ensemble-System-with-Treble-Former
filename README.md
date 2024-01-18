@@ -30,5 +30,5 @@ PolypGen: https://www.synapse.org/#!Synapse:syn45200214.
 python train_with_data1.py --amp -Ename t16K -e 100 -b 4 -n1 TrebleFormer_L -n2 TrebleFormer_S -n3 FCBFormer_L -n4 FCBFormer_S -n5 ESFPNet_L -n6 ESFPNet_S -nN 6
 python train_with_data2.py --amp -Ename t16K -e 100 -b 4 -n1 TrebleFormer_L -n2 TrebleFormer_S -n3 FCBFormer_L -n4 FCBFormer_S -n5 ESFPNet_L -n6 ESFPNet_S -nN 6
 ```
-#### If you use, please cite:\
+#### If you use, please cite:
 [Xu, C. et al. Dual Ensemble System for Polyp Segmentation with Multi-Head Control Ensemble and Sub-Model Adaptive Selection Ensemble]
