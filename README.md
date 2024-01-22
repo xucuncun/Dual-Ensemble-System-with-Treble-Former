@@ -23,11 +23,11 @@ Kvasir-SEG: https://datasets.simula.no/kvasir-seg/. \
 CVC-ClinicDB: https://polyp.grand-challenge.org/CVCClinicDB/. \
 ETIS-LaribpolypDB: https://drive.google.com/drive/folders/10QXjxBJqCf7PAXqbDvoceWmZ-qF07tFi?usp=share_link. \
 CVC-ColonDB: https://drive.google.com/drive/folders/1-gZUo1dgsdcWxSdXV9OAPmtGEbwZMfDY?usp=share_link. \
-PolypGen: https://www.synapse.org/#!Synapse:syn45200214.
+PolypGen: https://www.synapse.org/#!Synapse:syn45200214.\
 (4) Pre-training models should be downloaded via their github connection and placed in location "./Models" after downloading.\
-https://github.com/microsoft/Swin-Transformer\
-https://github.com/whai362/PVT\
-https://github.com/zengjixiangnfft/ESFPNet(Not official MixTransformer, but ESFPNet is excellent!)\
+https://github.com/microsoft/Swin-Transformer \
+https://github.com/whai362/PVT \
+https://github.com/zengjixiangnfft/ESFPNet(Not official MixTransformer, but ESFPNet is excellent!) \
 
 ### 5. run training:
 ```
