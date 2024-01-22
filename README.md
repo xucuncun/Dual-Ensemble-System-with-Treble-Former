@@ -27,7 +27,7 @@ PolypGen: https://www.synapse.org/#!Synapse:syn45200214.\
 (4) Pre-training models should be downloaded via their github connection and placed in location "./Models" after downloading.\
 https://github.com/microsoft/Swin-Transformer \
 https://github.com/whai362/PVT \
-https://github.com/zengjixiangnfft/ESFPNet(Not official MixTransformer, but ESFPNet is excellent!) \
+https://github.com/zengjixiangnfft/ESFPNet (Not official MixTransformer, but ESFPNet is excellent!) \
 
 ### 5. run training:
 ```
